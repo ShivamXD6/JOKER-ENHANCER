@@ -1,6 +1,6 @@
 {
-    "version": string,
-    "versionCode": int,
+    "version": "BLAZIKEN",
+    "versionCode": "2",
     "zipUrl": url,
-    "changelog": url
+    "changelog": "https://raw.githubusercontent.com/FlaxCube/JOKER-ENHANCER/main/changelog.md"
 }
