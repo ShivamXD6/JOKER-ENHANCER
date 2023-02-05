@@ -1,4 +1,4 @@
-# Works without rebooting device as well
+# Works only when rebooting device
 
 # Write Function
 write() {
