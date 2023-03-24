@@ -1,4 +1,4 @@
-# 🃏 JOKER-ENHANCER ⚡
+# 🃏JOKER-ENHANCER⚡
 
 🃏 An Overall User Experience Enhancer with Many Tweaks or Enhancements ⚡
 
