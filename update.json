@@ -1,6 +1,6 @@
 {
-    "version": "LAPRAS",
-    "versionCode": "15",
-    "zipUrl": "https://github.com/FlaxCube/JOKER-ENHANCER/releases/download/LAPRAS/JOKER-LAPRAS.zip",
+    "version": "LAPRAS-HOTFIX",
+    "versionCode": "16",
+    "zipUrl": "https://github.com/FlaxCube/JOKER-ENHANCER/releases/download/LAPRAS-HOTFIX/JOKER-LAPRAS-HOTFIX.zip",
     "changelog": "https://raw.githubusercontent.com/FlaxCube/JOKER-ENHANCER/main/changelog.md"
 }
