@@ -1,3 +1,6 @@
+### HOTFIX - 27-03-2023
+* Fixed All Enhancements.
+* Improved Base
 ### LAPRAS - 27-03-2023
 * Fixed Updating Module From Magisk Module Section.
 * Fixed Confliction Between Safety Net And High Res Audio.
