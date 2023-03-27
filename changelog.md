@@ -1,13 +1,8 @@
-### Mew - 08-03-2023
-- Download All Latest Builds From Pling
-https://www.pling.com/p/1982308
-* Fixed Joker Config Errors. 
-* Added Latest Security Patch.
-* Added Custom Model Spoof.
-* Added Safety Net Fix.
-* Added High Res Audio.
-* Removed Skipping dialog while installing.
-* Added Zygisk Support. (Required to RUN)
-* Improved Ram Management Enhancement.
-* Improved Installation Speed.
-* Added Uninstall Script so you can uninstall it from Recovery.
+### LAPRAS - 27-03-2023
+* Fixed Updating Module From Magisk Module Section.
+* Fixed Confliction Between Safety Net And High Res Audio.
+* Changed config file extension to "txt".
+* Removed Enahnce Audio And Video, Security Patch, Ram Enhancement, Safety Net Fix, High Res Audio From Config, All will enable by default.
+* Improved Scripts for future updates.
+* Reworked on System Props.
+* Miscellaneous Changes.
