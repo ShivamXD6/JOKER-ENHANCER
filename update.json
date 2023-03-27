@@ -1,6 +1,6 @@
 {
-    "version": "MEW",
-    "versionCode": "10",
-    "zipUrl": "",
+    "version": "LAPRAS",
+    "versionCode": "15",
+    "zipUrl": "https://github.com/FlaxCube/JOKER-ENHANCER/releases/download/LAPRAS/JOKER-LAPRAS.zip",
     "changelog": "https://raw.githubusercontent.com/FlaxCube/JOKER-ENHANCER/main/changelog.md"
 }
