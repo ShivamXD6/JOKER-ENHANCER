@@ -5,3 +5,4 @@
 * Fixed Auto Reboot
 * Fixed Bootloop saver (May not work with magisk delta)
 * Rebased Module
+* Fixed Debloater
